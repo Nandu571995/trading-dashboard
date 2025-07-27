@@ -1,0 +1,10 @@
+streamlit==1.35.0
+pandas==2.2.2
+matplotlib==3.8.4
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+yfinance==0.2.40
+plotly==5.21.0
+python-telegram-bot==20.7
+breeze_connect==1.0.27
